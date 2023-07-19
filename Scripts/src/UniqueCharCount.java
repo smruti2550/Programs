@@ -4,7 +4,7 @@ public class UniqueCharCount {
 
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);
-        System.out.println("enter the input");
+        System.out.println("enter the input to to check");
         unique(scn.nextLine());
     }
 
