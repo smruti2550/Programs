@@ -17,6 +17,7 @@ public class BuySellStock {
 //        }
 //        System.out.println(max_profit);
 
+//        Find the min price from the list starting from 0 index and sell on that to get the max profit
         int min_price=arr[0];
         int max_profit=0;
         for (int i=0;i<arr.length;i++){
