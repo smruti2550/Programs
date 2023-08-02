@@ -4,7 +4,7 @@ public class BuySellStock {
     public static void main(String[] args) {
         int[] arr = {3, 5, 1, 7, 4, 9, 3};
 
-        //Brute force approach-N2
+        //Brute force approach-N2, buy one for loop and sell one for loop
 //        int max_profit=0;
 //        int profit;
 //        for (int i = 0; i < arr.length-1;i++) {
