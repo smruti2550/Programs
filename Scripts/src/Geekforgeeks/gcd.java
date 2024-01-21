@@ -2,7 +2,7 @@ package Geekforgeeks;
 
 public class gcd {
     public static void main(String[] args){
-        System.out.println(getgcd1(10,2));
+        System.out.println(getgcd1(12,25));
     }
 
 //    Naive solution
