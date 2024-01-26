@@ -2,7 +2,7 @@ package Geekforgeeks;
 
 public class CountOfDigit {
     public static void main (String[] args){
-       System.out.println(count(023));
+       System.out.println(count(109641728));
     }
 
     static int count(int n){

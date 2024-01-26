@@ -3,7 +3,7 @@ package Geekforgeeks;
 public class Factrorial {
 
     public static void main(String[] args){
-        System.out.println(factorial(10));
+        System.out.println(factorial(19));
 
     }
     static int factorial(int n){
