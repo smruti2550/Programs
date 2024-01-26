@@ -1,3 +1,5 @@
+package Geekforgeeks.Pratice;
+
 import java.util.Scanner;
 
 public class UniqueCharCount {

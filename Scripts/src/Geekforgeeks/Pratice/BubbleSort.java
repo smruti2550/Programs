@@ -1,3 +1,5 @@
+package Geekforgeeks.Pratice;
+
 public class BubbleSort {
 
     public static void main(String[] args){

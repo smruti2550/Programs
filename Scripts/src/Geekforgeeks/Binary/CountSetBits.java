@@ -1,4 +1,4 @@
-package Geekforgeeks;
+package Geekforgeeks.Binary;
 
 public class CountSetBits {
     public static void main (String [] args){

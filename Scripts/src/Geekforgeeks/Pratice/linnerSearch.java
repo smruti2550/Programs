@@ -1,3 +1,4 @@
+package Geekforgeeks.Pratice;
 
 public class linnerSearch {
 

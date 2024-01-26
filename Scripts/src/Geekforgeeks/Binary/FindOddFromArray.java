@@ -1,8 +1,8 @@
-package Geekforgeeks;
+package Geekforgeeks.Binary;
 
 public class FindOddFromArray {
     public static void main(String[] args){
-        int[] arr= {2,3,4,2,4};
+        int[] arr= {2,3,4,2,4,5};
         System.out.println(check(arr,arr.length));
     }
 

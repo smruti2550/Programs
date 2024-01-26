@@ -1,4 +1,4 @@
-package Geekforgeeks;
+package Geekforgeeks.Binary;
 import java.util.Arrays;
 import java.util.HashMap;
 

@@ -1,4 +1,4 @@
-package Geekforgeeks;
+package Geekforgeeks.number;
 
 public class gcd {
     public static void main(String[] args){

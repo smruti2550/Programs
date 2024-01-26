@@ -1,4 +1,4 @@
-package Geekforgeeks;
+package Geekforgeeks.number;
 
 public class trailingZeroFactorial {
 

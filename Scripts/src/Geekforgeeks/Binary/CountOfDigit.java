@@ -1,4 +1,4 @@
-package Geekforgeeks;
+package Geekforgeeks.Binary;
 
 public class CountOfDigit {
     public static void main (String[] args){

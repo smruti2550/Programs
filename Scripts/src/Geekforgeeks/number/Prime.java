@@ -1,4 +1,4 @@
-package Geekforgeeks;
+package Geekforgeeks.number;
 
 public class Prime {
     public static void main(String[] args){
