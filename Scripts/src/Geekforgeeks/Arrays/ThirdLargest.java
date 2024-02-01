@@ -2,7 +2,7 @@ package Geekforgeeks.Arrays;
 
 public class ThirdLargest {
     public static void main(String[] args) {
-        int[] arr = {2, 10, 10, 5, 9};
+        int[] arr = {9,1, 10, 10, 5, 9};
         System.out.println(secondLargest3(arr));
     }
     static int secondLargest3(int [] arr){
@@ -19,7 +19,7 @@ public class ThirdLargest {
                 third=second;
                 second=arr[i];
             }
-            else if (arr[i]>third && arr[i]!=first){
+            else if (arr[i]>third && arr[i]!=first && arr[i]!=second){
                 third=arr[i];
             }
         }
