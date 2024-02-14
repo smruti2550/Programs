@@ -1,8 +1,9 @@
 package Geekforgeeks.Arrays;
 
 import java.util.Arrays;
-
-public class RotateByN {
+//1. call left rotate multiple times
+//2. below two approach
+public class LeftRotateByN {
     public static void main(String [] args){
         int d=3;
         int[] arr= {1,2,3,4,5,6,7};
