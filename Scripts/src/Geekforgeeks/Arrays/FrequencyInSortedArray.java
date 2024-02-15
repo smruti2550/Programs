@@ -3,8 +3,6 @@ package Geekforgeeks.Arrays;
 public class FrequencyInSortedArray {
     public static void main (String[] args){
         int [] arr={10,10,2,2,2,4,5};
-        String s="abcd";
-        int eee=(int)s.charAt(1);
         int freq=1;
         int i=1;
         while(i<arr.length) {
