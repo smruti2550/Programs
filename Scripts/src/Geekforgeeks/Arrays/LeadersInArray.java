@@ -20,7 +20,6 @@ public class LeadersInArray {
     }
     static void leader(int [] arr){
         int current_large= arr[arr.length-1];
-        System.out.println(current_large);
         for (int i=arr.length-2;i>=0;i--){
             if (arr[i]>current_large){
                 current_large=arr[i];

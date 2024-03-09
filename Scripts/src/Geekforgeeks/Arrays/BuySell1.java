@@ -3,18 +3,18 @@ package Geekforgeeks.Arrays;
 public class BuySell1 {
 
     public static void main (String[] args) {
-        int[] arr = {8,1,1,1,1};
+        int[] arr = {5,1,4,8,9};
         int max_profit=0;
         int profit;
         for (int i=0;i<arr.length-1;i++){
-            for (int j=i;j<arr.length-1;j++){
+            for (int j=i;j<arr.length;j++){
                 profit=arr[j]-arr[i];
                 if (profit>max_profit){
                     max_profit=profit;
                 }
             }
         }
-        System.out.println(maxProfit(arr));
+        System.out.println(max_profit);
     }
 
     public static int maxProfit(int [] arr){

@@ -1,5 +1,5 @@
 package Geekforgeeks.number;
-
+//lowest common multiplier by both the number
 public class LCM {
     public static void main(String[] args){
         System.out.println(lcm(0,6));

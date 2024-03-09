@@ -1,5 +1,5 @@
 package Geekforgeeks.Arrays;
-
+//Element count is more than half of the length
 public class MajorityElement {
     public static void main (String[] args) {
         int[] arr = {5,8,8,1,2,8,8,5,6,5,5};

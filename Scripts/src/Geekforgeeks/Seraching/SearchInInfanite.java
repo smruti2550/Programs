@@ -1,5 +1,5 @@
 package Geekforgeeks.Seraching;
-
+//Find the low and high first and do binary search.
 public class SearchInInfanite {
     public static void main(String[] args) {
         int number = 13;
