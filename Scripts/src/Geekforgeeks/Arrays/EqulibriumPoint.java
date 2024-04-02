@@ -15,6 +15,7 @@ public class EqulibriumPoint {
             }
             if (rightSum==leftSum) System.out.println("true");
         }
+        int[] arr1 = {1, 2,3,4};
     }
 
 }
