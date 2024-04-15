@@ -8,9 +8,7 @@ import java.util.List;
 public class GroupAnagram {
     public static void main (String [] args){
         String[] arr= {"eat","tea","tan","ate","nat","bat"};
-        String[] arr1= {""};
-        System.out.println(check(arr1));
-
+        System.out.println(check(arr));
     }
 
     public static List<List<String>> check(String[] arr){
