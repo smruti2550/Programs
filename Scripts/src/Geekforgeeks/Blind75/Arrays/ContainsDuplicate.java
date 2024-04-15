@@ -1,4 +1,4 @@
-package Geekforgeeks.Blind75;
+package Geekforgeeks.Blind75.Arrays;
 
 import java.util.Arrays;
 import java.util.HashMap;
