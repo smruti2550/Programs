@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class EncodeDecode {
     public static void main (String[] args){
-        System.out.println(encode1("3[a]2[bc]"));
+        System.out.println(encode1("3[aa]2[bc]"));
     }
     public static String encode(String input) {
         Stack<Integer> num = new Stack<>();
@@ -52,6 +52,7 @@ public class EncodeDecode {
                 while(!stringStack.peek().equals("[")){
                     sb.insert(0,stringStack.pop());
                 }
+//                to pop the open barckey
                 stringStack.pop();
                 StringBuilder temp= new StringBuilder();
                 int count= numStack.pop();
